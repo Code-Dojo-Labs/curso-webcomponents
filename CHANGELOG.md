@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.3.0...v1.4.0) (2026-09-02)
+
+### Features
+
+-   **app:** dev-013 utilizando slots ([b4f36d2](https://github.com/Code-Dojo-Labs/curso-webcomponents/commit/b4f36d2fb03934b0e151570e6bd6838077662364))
+
 ## [1.3.0](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.2.1-beta.0...v1.3.0) (2026-09-02)
 
 ### Features
