@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.2.1-beta.0...v1.3.0) (2026-09-02)
+
+### Features
+
+-   **app:** dev-009 entendiendo shadown dom ([f721311](https://github.com/Code-Dojo-Labs/curso-webcomponents/commit/f72131127a6ab4ca057c9d4d9cd0911ad67b2d6a))
+
 ### [1.2.1-beta.0](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.2.0...v1.2.1-beta.0) (2026-09-02)
 
 ## [1.2.0](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.1.1-beta.0...v1.2.0) (2026-08-29)
