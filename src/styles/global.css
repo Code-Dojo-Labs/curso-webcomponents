@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    color: #a6e22e;
+    background-color: #272822;
+}
+
+main {
+    max-width: 1440px;
+    width: 100%;
+    padding: 10px;
+    margin: 32px auto;
+    @media (max-width: 1024px) {
+        width: 90%;
+        padding: 5px;
+    }
+}
