@@ -1,4 +1,4 @@
-**[◀️ Regresar](../../)**
+**[◀️ Regresar](../../../README.md)**
 
 # 📕 Lección 2: Custom Elements (v1) & Lifecycle Callbacks Avanzados
 

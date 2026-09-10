@@ -1,4 +1,4 @@
-**[◀️ Regresar](../../../)**
+**[◀️ Regresar](../../../README.md)**
 
 # 📕 Lección 1: Introducción y Fundamentos de WebComponents
 
