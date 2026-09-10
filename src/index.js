@@ -1,4 +1,1 @@
-import "./dev-001/index.js";
-import "./dev-002/index.js";
-import "./dev-003/index.js";
-import "./dev-004/index.js";
+import "./components/P-001/index.js";
