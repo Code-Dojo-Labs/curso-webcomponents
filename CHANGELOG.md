@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0-beta.0](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.4.0...v1.1.0-beta.0) (2026-09-10)
+
+### Features
+
+-   **app:** dev-001 Primer componente ([6f0a46d](https://github.com/Code-Dojo-Labs/curso-webcomponents/commit/6f0a46d7fdb2c438d92b10d910dd17596ef479f8))
+-   **app:** dev-005 Manejo de lciclos de vida ([2225b18](https://github.com/Code-Dojo-Labs/curso-webcomponents/commit/2225b1832448067075bd7ce6bb1e3e9202952754))
+-   **app:** dev-009 entendiendo shadown dom ([8feb806](https://github.com/Code-Dojo-Labs/curso-webcomponents/commit/8feb8069deff37f9accf522255cc0fff43660b54))
+-   **app:** dev-013 utilizando slots ([771efb4](https://github.com/Code-Dojo-Labs/curso-webcomponents/commit/771efb4661daabe0b573a09cc4f45d5ced9e6216))
+
 ## [1.4.0](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.3.0...v1.4.0) (2026-09-02)
 
 ### Features
