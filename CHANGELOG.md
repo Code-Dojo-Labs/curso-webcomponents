@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0-beta.1](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.1.0-beta.0...v1.1.0-beta.1) (2026-09-10)
+
+### Features
+
+-   **app:** webcomponent status-badge ([7c87816](https://github.com/Code-Dojo-Labs/curso-webcomponents/commit/7c878164502df7dcb070cd4e70a6bf0e16041003)), closes [#18](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/18)
+
 ## [1.1.0-beta.0](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.4.0...v1.1.0-beta.0) (2026-09-10)
 
 ### Features
