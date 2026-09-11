@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0-beta.3](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.1.0-beta.2...v1.1.0-beta.3) (2026-09-11)
+
+### Features
+
+-   **app): feat(app:** webcomponent status-badge shadow dom ([521cab8](https://github.com/Code-Dojo-Labs/curso-webcomponents/commit/521cab80df84f2d3bcce6cf48c1c2e66a82c669d)), closes [#26](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/26)
+
 ## [1.1.0-beta.2](https://github.com/Code-Dojo-Labs/curso-webcomponents/compare/v1.1.0-beta.1...v1.1.0-beta.2) (2026-09-11)
 
 ### Features
