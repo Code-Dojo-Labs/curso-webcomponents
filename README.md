@@ -13,6 +13,9 @@ Este es el plan de estudios estructurado de forma progresiva. Conforme avanzamos
 -   📍 **[Apuntes](./src/components/P-002/)**
 -   🎟️ **[🏗️ P-002 | Hacer reactivo el componente status-badge a cambios de estado en vivo](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/22)**
 -   [ ] 📌 Módulo 3: Shadow DOM & Encapsulamiento Visual.
+-   📍 **[Apuntes](./src/components/P-003/)**
+-   🎟️ **[🏗️ P-003 | Encapsular el componente status-badge usando Shadow DOM y Adopted StyleSheets](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/26)**
+
 -   [ ] 📌 Módulo 4: `<template>` y `<slot>` (Composición de UI).
 -   [ ] 📌 Módulo 5: Custom Events & Arquitectura de Comunicación Unidireccional.
 -   [ ] 📌 Módulo 6: Clean Code & Patrones de Diseño aplicados a WebComponents.
