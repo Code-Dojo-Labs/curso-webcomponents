@@ -45,6 +45,9 @@ main div div {
     display: flex;
     gap: 10px;
 }
+img {
+    max-width: 100px;
+}
 
 /* Classes para componentes */
 .badge {
