@@ -34,6 +34,12 @@ Este es el plan de estudios estructurado de forma progresiva. Conforme avanzamos
 
 ---
 
+-   [x] 🟢 Examen 1: Examen Parcial de Certificación (Módulos 1 al 5).
+-   🎟️ **[Desarrollo de un componente de notificación en tiempo real (notification-toast)](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/35)**
+-   📝 **[Apuntes](./src/components/E-005/)**
+
+---
+
 -   [ ] 📌 Módulo 6: Clean Code & Patrones de Diseño aplicados a WebComponents.
 
 ---
