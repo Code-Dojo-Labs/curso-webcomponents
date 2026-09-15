@@ -28,7 +28,7 @@ Este es el plan de estudios estructurado de forma progresiva. Conforme avanzamos
 
 ---
 
--   [ ] 📌 Módulo 5: Custom Events & Arquitectura de Comunicación Unidireccional.
+-   [x] 📌 Módulo 5: Custom Events & Arquitectura de Comunicación Unidireccional.
 -   🎟️ **[P-005 | Emitir un evento personalizado para alternar el estado del usuario desde el perfil](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/34)**
 -   📝 **[Apuntes](./src/components/P-005/)**
 
