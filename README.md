@@ -45,6 +45,11 @@ Este es el plan de estudios estructurado de forma progresiva. Conforme avanzamos
 -   🎟️ **[P-006 | Implementar la clase base BaseComponent con actualización optimizada (Render Trigger)](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/37)**
 -   📝 **[Apuntes](./src/components/P-006/)**
 
+    -   [x] 📍 Módulo 6.1: Patron de diseño Container / Presentational Component
+    -   📝 **[Apuntes](./src/components/P-006A/)**
+    -   [x] 📍 Módulo 6.2: Patron Observer / Unidirectional State Store
+    -   📝 **[Apuntes](./src/components/P-006b/)**
+
 ---
 
 -   [ ] 📌 Módulo 7: Herramientas del Ecosistema Moderno (Lit / FastElement).
