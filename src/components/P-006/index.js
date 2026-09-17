@@ -70,7 +70,6 @@ class ToastCard extends BaseComponent {
         const SECONDS = this.getAttribute("seconds") || 3;
         this.#toastFooter.style.animation = "none";
         void this.#toastFooter.offsetHeight; // Forzar reflow
-        this.#toastFooter.style.animation = `progreso ${SECONDS}s linear forwards`;
         this.#toastFooter.style = `animation: progreso ${SECONDS}s linear forwards;`;
         console.log("🚀 %c[RENDER EJECUTADO EN EL DOM]", "color: #00ff00; font-weight: bold;");
     }
