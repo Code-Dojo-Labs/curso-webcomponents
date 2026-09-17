@@ -4,3 +4,6 @@ import "./components/P-003/index.js";
 import "./components/P-004/index.js";
 import "./components/P-005/index.js";
 import "./components/E-001/index.js";
+import "./components/P-006/index.js";
+import "./components/P-006A/index.js";
+import "./components/P-006B/index.js";

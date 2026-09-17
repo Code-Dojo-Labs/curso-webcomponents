@@ -71,7 +71,39 @@
                 </notification-toast>
             </div>
         </div>
+        <div>
+            <h1>P-006 : Notification Toast Card</h1>
+            <div><button id="btn-random">Random Toast</button></div>
+            <div>
+                <toast-card seconds="3" type="success" message="This is a success notification."></toast-card>
+            </div>
+        </div>
+        <div>
+            <h1>P-006A : Container / Presentational Component</h1>
+            <div>
+                <toast-manager></toast-manager>
+            </div>
+        </div>
+        <div>
+            <h1>P-006B : combinando lo 3 patrones</h1>
+            <div>
+                <!-- Badge en Navbar -->
+                <div class="box">
+                    <notification-badge></notification-badge>
+                </div>
 
+                <!-- Panel de Control -->
+                <div class="box">
+                    <notification-actions></notification-actions>
+                </div>
+
+                <!-- Lista de Notificaciones (Contenedor Inteligente) -->
+                <div class="box">
+                    <h3>Lista de Alertas</h3>
+                    <notification-list-container></notification-list-container>
+                </div>
+            </div>
+        </div>
     </main>
     <!-- Invocador principal de webcomponents -->
     <script type="module" src="./src/index.js"></script>
