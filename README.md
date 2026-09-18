@@ -36,7 +36,7 @@ Este es el plan de estudios estructurado de forma progresiva. Conforme avanzamos
 
 -   [x] 🟢 Examen 1: Examen Parcial de Certificación (Módulos 1 al 5).
 -   🎟️ **[Desarrollo de un componente de notificación en tiempo real (notification-toast)](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/35)**
--   📝 **[Apuntes](./src/components/E-005/)**
+-   📝 **[Apuntes](./src/components/E-001/)**
 
 ---
 
@@ -46,6 +46,12 @@ Este es el plan de estudios estructurado de forma progresiva. Conforme avanzamos
     -   📝 **[Apuntes](./src/components/P-006A/)**
     -   [x] 📍 Módulo 6.2: Patron Observer / Unidirectional State Store
     -   📝 **[Apuntes](./src/components/P-006b/)**
+
+---
+
+-   [x] 🟢 Examen 2: Examen Parcial de Certificación Patrones de diseño.
+-   🎟️ **[E-002 | Carrito de Compras / Contador de Productos](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/38)**
+-   📝 **[Apuntes](./src/components/E-002/)**
 
 ---
 
