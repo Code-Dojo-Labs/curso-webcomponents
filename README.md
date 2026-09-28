@@ -52,6 +52,7 @@ Este es el plan de estudios estructurado de forma progresiva. Conforme avanzamos
 -   [x] 🟢 Examen 2: Examen Parcial de Certificación Patrones de diseño.
 -   🎟️ **[E-002 | Carrito de Compras / Contador de Productos](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/38)**
 -   📝 **[Apuntes](./src/components/E-002/)**
+-   📄 **Examane** - [Prueba](./src/components/E-002/)
 
 ---
 
