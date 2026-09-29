@@ -7,3 +7,4 @@ import "./components/E-001/index.js";
 import "./components/P-006/index.js";
 import "./components/P-006A/index.js";
 import "./components/P-006B/index.js";
+import "./components/P-007/index.js";
