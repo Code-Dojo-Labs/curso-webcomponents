@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Google Sans Code", monospace;
+}
+
+body {
+    color: #78dce8;
+    background-color: #272822;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 1440px;
+    margin: 0 auto;
+    width: 100%;
+    height: 100vh;
+    @media (max-width: 1024px) {
+        width: 90%;
+        padding: 5px;
+    }
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    height: auto;
+    width: 100%;
+}
+
+item-store {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    height: fit-content;
+    width: 100%;
+}
+
+footer {
+    height: 10px;
+    width: 100%;
+}
