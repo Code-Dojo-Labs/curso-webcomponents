@@ -66,6 +66,9 @@ class ToastView extends BaseComponent {
                 new CustomEvent("toast-close-view", {
                     bubbles: true,
                     composed: true,
+                    detail: {
+                        message: "Toast closed",
+                    },
                 }),
             );
         });

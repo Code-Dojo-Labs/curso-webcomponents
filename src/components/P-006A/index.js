@@ -27,6 +27,8 @@ class ToastManager extends HTMLElement {
 
         // Escucha el evento emitido por el componente de presentación
         this.shadowRoot.querySelector("toast-view").addEventListener("toast-close-view", (event) => {
+            console.log(event.detail.message);
+            //this.dismissToast();
             this.dismissToast();
         });
 

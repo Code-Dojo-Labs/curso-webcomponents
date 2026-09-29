@@ -50,6 +50,18 @@ Este es el plan de estudios estructurado de forma progresiva. Conforme avanzamos
     -   [x] 📍 Módulo 6.2: Patron Observer / Unidirectional State Store
     -   📝 **[Apuntes](./src/components/P-006b/)**
 
+    -   [x] 📍 Módulo 6.1: Patron de diseño Container / Presentational Component
+    -   📝 **[Apuntes](./src/components/P-006A/)**
+    -   [x] 📍 Módulo 6.2: Patron Observer / Unidirectional State Store
+    -   📝 **[Apuntes](./src/components/P-006b/)**
+
+---
+
+-   [x] 🟢 Examen 2: Examen Parcial de Certificación Patrones de diseño.
+-   🎟️ **[E-002 | Carrito de Compras / Contador de Productos](https://github.com/Code-Dojo-Labs/curso-webcomponents/issues/38)**
+-   📝 **[Apuntes](./src/components/E-002/)**
+-   📄 **Examane** - [Prueba](./src/components/E-002/)
+
 ---
 
 -   [ ] 📌 Módulo 7: Herramientas del Ecosistema Moderno (Lit / FastElement).
