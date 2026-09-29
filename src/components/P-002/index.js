@@ -27,7 +27,7 @@ class StatusBadgeTimer extends HTMLElement {
     // Tomamos acción cuando alguno de los atributos observados cambia
     attributeChangedCallback(name, oldValue, newValue) {
         if (oldValue !== newValue) {
-            console.log(`Attribute ${name} changed from ${oldValue} to ${newValue}`);
+            //console.log(`Attribute ${name} changed from ${oldValue} to ${newValue}`);
             if (name === "state") this.render();
         }
     }

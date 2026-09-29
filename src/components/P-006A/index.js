@@ -29,6 +29,7 @@ class ToastManager extends HTMLElement {
         this.shadowRoot.querySelector("toast-view").addEventListener("toast-close-view", (event) => {
             console.log(event.detail.message);
             //this.dismissToast();
+            this.dismissToast();
         });
 
         // Lógica de temporizador (Auto-dismiss a los 5 segundos)
